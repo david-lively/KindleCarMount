@@ -1,0 +1,16 @@
+Kindle Fire HD 8:
+Case: 
+	154 + 59 (214mm)
+	128.13
+	10 (9.83)
+
+Bezel: 
+	sides 		10mm
+	top & bottom: 20mm	
+
+Screen:
+	
+Buttons: 15mm from outside of case
+
+
+
